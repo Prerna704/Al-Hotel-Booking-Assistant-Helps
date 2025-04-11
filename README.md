@@ -1,0 +1,2 @@
+# Al-Hotel-Booking-Assistant-Helps-users-find-the-best-hotel-deals
+Welcome everyone! Today, I'm going to present my project titled “AI Hotel Booking Assistant” – a smart tool designed to help users find the best hotel deals through AI-powered recommendations. The assistant is capable of understanding user preferences and fetching hotel data in real time using external APIs. Let’s dive into how it works.
